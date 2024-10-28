@@ -1,0 +1,50 @@
+[
+  {
+    "title": "อ่านหนังสือ",
+    "description": "อ่านหนังสือเพื่อพัฒนาทักษะ",
+    "imageName": "task1.png",
+    "isDone": false
+  },
+  {
+    "title": "ทำอาหาร",
+    "description": "ทำอาหารง่ายๆไว้กิน",
+    "imageName": "task2.png",
+    "isDone": false
+  },
+  {
+    "title": "ทำความสะอาดห้อง",
+    "description": "ทำความสะอาดใต้เตียงด้วย",
+    "imageName": "task3.png",
+    "isDone": false
+  },
+  {
+    "title": "เอาขยะไปทิ้ง",
+    "description": "เอาขยะหลังทำความสะอาดไปทิ้ง",
+    "imageName": "task4.png",
+    "isDone": false
+  },
+  {
+    "title": "ทำงานอดิเรก",
+    "description": "ใช้เวลาในการพัฒนาความชอบส่วนตัว",
+    "imageName": "task5.png",
+    "isDone": false
+  },
+  {
+    "title": "เล่นเกม",
+    "description": "นั่งคุยกับเพื่อนๆเล่นเกมด้วยกัน",
+    "imageName": "task6.png",
+    "isDone": false
+  },
+  {
+    "title": "ดูซีรีส์",
+    "description": "นั่งดูซีรีส์",
+    "imageName": "task7.png",
+    "isDone": false
+  },
+  {
+    "title": "เตรียมสอบ",
+    "description": "ทบทวนเนื้อหาสำหรับการสอบที่จะถึง",
+    "imageName": "task8.png",
+    "isDone": false
+  }
+]
